@@ -1,7 +1,7 @@
 # Chiffrement Inverse En Python3
 Programme de chiffrement et de déchiffrement inverse d'un message en python3.
 
-# Explication du chiffrement inverse avec une complexité O(n)
+# Explication du chiffrement inverse avec complexité O(n)
 1. La première fonction s’appelle chiffrement, elle prend en paramètre un message qui sera 
 chiffré, la fonction commencera par prendre un Cipher qui est une chaine de caractère vide. 
 
