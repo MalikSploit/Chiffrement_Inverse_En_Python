@@ -13,7 +13,7 @@ message de la fin vers le début.
 3. Enfin on testera notre programme avec nos jeux d’essais,
 on appellera deux fois la fonctions chiffrement pour coder notre message, le premier appel à 
 chiffrement sera donné à msg_chiffré ensuite le deuxième chiffrement sera donné à 
-msg_déchiffré qui déchiffrera notre message chiffré a chaque jeu d’essai
+msg_déchiffré qui déchiffrera notre message chiffré a chaque jeu d’essai.
 
 
 # Execution
